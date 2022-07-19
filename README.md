@@ -1,2 +1,2 @@
 # demo-repo
-demo for learning
+demo for fun!
